@@ -14,5 +14,6 @@ public class Task20 {
         while (m.find()){
             System.out.print(m.group());
         }
+            System.out.println();
     }
 }
