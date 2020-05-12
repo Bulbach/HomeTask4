@@ -25,6 +25,7 @@ public class Main {
         }
         System.out.println("Количество знаков препинания равно : " + count);
     Task19.task();
+    Task20.task1();
     }
 
   }
